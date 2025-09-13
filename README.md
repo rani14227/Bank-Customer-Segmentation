@@ -1,2 +1,2 @@
-# Bank-Customer-Segmentation
-Cluster 0 – high mean of credit amount, long duration, younger customers Cluster 1 – low mean of credit amount, short duration, younger customers Cluster 2 - low mean of credit amount, short duration, older customers Cluster 3 - high mean of credit amount, middle-time duration, older customers
+# Clustering---Customer_Segmentation
+To identify the target customer, I divided the customers into 4 different categories based on spending scores and 6 different categories based on annual income, and further based on behavioral patterns and life cycle.
